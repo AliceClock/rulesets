@@ -1,0 +1,11 @@
+payload:
+  # Core
+  - +.mypikpak.com
+  - +.mypikpak.net
+  - +.pickpackapp.com
+  - +.pikpak.io
+  - +.pikpak.me
+  - +.pikpakdrive.com
+
+  # Tracking
+  - o4504926511693824.ingest.sentry.io
