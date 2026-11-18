@@ -11,6 +11,8 @@ payload:
   - +.redditstatic.com
   - +.redditstatus.com
 
-  # Other
-  - +.reddit.app.link
+  # CDN
   - +.reddit.map.fastly.net
+
+  # Ads
+  - +.reddit.app.link

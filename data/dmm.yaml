@@ -1,14 +1,15 @@
 payload:
+  # Core
   - api-p.videomarket.jp
+  - +.dmm.co.jp
   - +.dmm.com
   - +.dmm-extension.com
   - +.dmmapis.com
   - +.dmmrex.com
-  - +.dmm.co.jp
-
-  # Advertising/Tracking
-  - +.ad.games.dmm.com
+  
+  # Ads/Tracking
   - +.bluekai.com
+  - +.ad.games.dmm.com
   - +.fout.jp
   - +.gmossp-sp.jp
   - +.i-mobile.co.jp

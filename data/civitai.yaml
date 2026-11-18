@@ -3,5 +3,5 @@ payload:
   - +.civitai.com
   - +.civitai.red
 
-  # Downloading
+  # CDN
   - civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com

@@ -1,2 +1,3 @@
 payload:
-    - +.ppy.sh
+  # Core
+  - +.ppy.sh

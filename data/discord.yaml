@@ -22,15 +22,20 @@ payload:
   - +.discordsays.com
   - +.discordsez.com
   - +.discordstatus.com
+  - +.hammerandchisel.com
+
+  # Customer Service
+  - hammerandchisel.zendesk.com
+
+  # Google Cloud Storage
+  - discord-attachments-uploads-prd.storage.googleapis.com
 
   # Other
   - +.airhorn.solutions
   - +.airhornbot.com
   - +.bigbeans.solutions
   - +.watchanimeattheoffice.com
-  - discord-attachments-uploads-prd.storage.googleapis.com
-  - hammerandchisel.ssl.zendesk.com
-
+  
   # Unused
   - +.discordapp.io
   - +.discordcdn.com
