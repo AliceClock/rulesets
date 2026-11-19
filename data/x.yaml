@@ -1,0 +1,32 @@
+payload:
+  # Core
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitter.jp
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twittercommunity.com
+  - DOMAIN-SUFFIX,twtrdns.net
+  - DOMAIN-SUFFIX,x.com
+
+  # CDN
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,twitter.map.fastly.net
+
+  # Ads
+  - DOMAIN-SUFFIX,ads-twitter.com
+
+  # Archived
+  - DOMAIN-SUFFIX,tweetdeck.com
+  - DOMAIN-SUFFIX,twitter.biz
+  - DOMAIN-SUFFIX,twitterinc.com
+  - DOMAIN-SUFFIX,twitterstat.us
+  - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
+  - DOMAIN-SUFFIX,twvid.com
+
+  # Other
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitterflightschool.com
+  - DOMAIN-SUFFIX,vine.co

@@ -1,18 +1,18 @@
 payload:
   # Core
-  - +.redd.it
-  - +.reddit.com
-  - +.redditblog.com
-  - +.reddithelp.com
-  - +.redditinc.com
-  - +.redditmail.com
-  - +.redditmedia.com
-  - +.redditspace.com
-  - +.redditstatic.com
-  - +.redditstatus.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditblog.com
+  - DOMAIN-SUFFIX,reddithelp.com
+  - DOMAIN-SUFFIX,redditinc.com
+  - DOMAIN-SUFFIX,redditmail.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditspace.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,redditstatus.com
 
   # CDN
-  - +.reddit.map.fastly.net
+  - DOMAIN-SUFFIX,reddit.map.fastly.net
 
   # Ads
-  - +.reddit.app.link
+  - DOMAIN-SUFFIX,reddit.app.link

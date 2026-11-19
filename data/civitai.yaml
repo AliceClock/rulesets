@@ -1,7 +1,7 @@
 payload:
   # Core
-  - +.civitai.com
-  - +.civitai.red
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,civitai.red
 
-  # CDN
-  - civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com
+  # Cloudflare R2
+  - DOMAIN,civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com
