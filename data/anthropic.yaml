@@ -1,0 +1,51 @@
+payload:
+    # Core
+    - DOMAIN-SUFFIX,anthropic.com
+    - DOMAIN-SUFFIX,clau.de
+    - DOMAIN-SUFFIX,claude.ai
+    - DOMAIN-SUFFIX,claude.app
+    - DOMAIN-SUFFIX,claude.com
+    - DOMAIN-SUFFIX,claude.dev
+    - DOMAIN-SUFFIX,claude.new
+    - DOMAIN-SUFFIX,claude.site
+    - DOMAIN-SUFFIX,claudeacademy.com
+    - DOMAIN-SUFFIX,claudemcpclient.com
+    - DOMAIN-SUFFIX,claudemcpcontent.com
+    - DOMAIN-SUFFIX,claudepages.dev
+    - DOMAIN-SUFFIX,claudestudio.com
+    - DOMAIN-SUFFIX,claudeusercontent.com
+
+    # CDN
+    - DOMAIN,servd-anthropic-website.b-cdn.net
+    - DOMAIN,anthropic.com.cdn.cloudflare.net
+
+    # Authentication
+    - DOMAIN,anthropic.auth0.com
+
+    # Content
+    - DOMAIN,anthropic-com.ghost.io
+
+    # Telemetry
+    - DOMAIN,browser-intake-us5-datadoghq.com
+    - DOMAIN,http-intake.logs.us5.datadoghq.com
+    - DOMAIN,o1158394.ingest.us.sentry.io
+
+    # Customer service
+    - DOMAIN-SUFFIX,intercom.io
+    - DOMAIN-SUFFIX,intercomcdn.com
+    - DOMAIN,cdn.usefathom.com
+
+    # KYC
+    - DOMAIN,withpersona.com
+    - DOMAIN,frompersona.com
+
+    # Other
+    - DOMAIN-SUFFIX,ant.dev
+    - DOMAIN-SUFFIX,anthropic.team
+    - DOMAIN-SUFFIX,antspace.dev
+    - DOMAIN-SUFFIX,chatbotclaude.com
+
+    # IP / ASN
+    - IP-CIDR,160.79.104.0/21,no-resolve
+    - IP-CIDR6,2607:6bc0::/32,no-resolve
+    - IP-ASN,399358,no-resolve

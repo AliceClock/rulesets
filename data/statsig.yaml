@@ -1,0 +1,10 @@
+payload:
+  # Core
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,statsigapi.com
+  - DOMAIN-SUFFIX,statsigcdn.com
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,featureassets.org
+  - DOMAIN-SUFFIX,assetsconfigcdn.org
+  - DOMAIN-SUFFIX,prodregistryv2.org
+  - DOMAIN-SUFFIX,beyondwickedmapping.org
